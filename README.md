@@ -4,6 +4,8 @@ A python Twitter bot that tweets a random image along with a proportionate color
 Images are taken from [Unsplash](https://unsplash.com/developers). 
 For a live demo, follow [@myworldcolours](https://twitter.com/myworldcolours).
 
+![alt text](images/tweet_img.jpg "Sample tweet")
+
 ## Installation
 
 Set up virtualenv with Python 3 and run
