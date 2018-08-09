@@ -46,9 +46,4 @@ def tweet():
     os.remove(tweet_img)
 
 if __name__ == "__main__":
-
-    INTERVAL = 60 * 60 * 12
-
-    while True:
-        tweet()
-        time.sleep(INTERVAL)
+    tweet()
