@@ -60,7 +60,7 @@ def format_images(img_names, width=3):
     
 
 def main():
-    img_file = './images/monarch.png'
+    img_file = './images/sample.jpg'
     palette_file = get_palette(img_file)
     tweet_img = format_images([img_file, palette_file])
     print('Image saved in current directory as {}'.format(tweet_img))
