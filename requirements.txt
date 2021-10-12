@@ -12,7 +12,7 @@ matplotlib==2.1.2
 networkx==2.1
 numpy==1.14.1
 oauthlib==2.0.6
-opencv-python==3.4.0.12
+opencv-python==4.2.0.32
 Pillow==5.0.0
 pyparsing==2.2.0
 PySocks==1.6.8
